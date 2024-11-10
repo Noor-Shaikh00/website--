@@ -20,32 +20,32 @@ function Services(){
                     <div className="box">
                         <FaLaptopCode className="ser-icon"/>
                         <h3>Web Development</h3>
-                        <span>Blog, E-Commerce</span>
+                        <span>Blogsquo; E-Commerce</span>
                     </div>
                     <div className="box">
                         <GiSoundOn className="ser-icon"/>
                         <h3>UI/UX Design</h3>
-                        <span>Mobile App, Website Design</span>
+                        <span>Mobile Appsquo; Website Design</span>
                     </div>
                     <div className="box">
                         <IoMicOutline className="ser-icon"/>
                         <h3>Sound Design</h3>
-                        <span>Voice Over,Beat Making</span>
+                        <span>Voice Oversquo;Beat Making</span>
                     </div>
                     <div className="box">
                         <IoGameControllerOutline className="ser-icon"/>
                         <h3>Game Design</h3>
-                        <span>Character Design, Objects</span>
+                        <span>Character Designsquo; Objects</span>
                     </div>
                     <div className="box">
                         <TbLibraryPhoto className="ser-icon"/>
                         <h3>Photography</h3>
-                        <span>protait, Product Photography</span>
+                        <span>protaitsquo; Product Photography</span>
                     </div>
                     <div className="box">
                         <RiCodeBoxLine className="ser-icon"/>
                         <h3>Advertising</h3>
-                        <span>BroadCast, Digital Advertising</span>
+                        <span>BroadCastsquo; Digital Advertising</span>
                         <button className="ser-btn">Order Now</button>
                     </div>
                     
